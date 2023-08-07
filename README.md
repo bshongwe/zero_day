@@ -1,4 +1,4 @@
-# zero_day
+# Zero Day
 This is my first repository as a full-stack engineer
 
 # Onboarding Projects
@@ -63,8 +63,8 @@ General
     How to work as collaborators on a project
     Which files should and which files should not appear in your repo
 
-### 0x04. Professional Technologies
 
+### 0x04. Professional Technologies
 
 ### [Optional] Vagrant
 General
@@ -76,5 +76,6 @@ General
     What does “Ubuntu” mean
     How to use VMs with Vagrant
     What does the command uname do
+
 
 
